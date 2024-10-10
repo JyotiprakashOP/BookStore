@@ -1,0 +1,15 @@
+.Home-Page{
+    width: 100%;
+    min-height: 92vh;
+    max-height: auto;
+}
+.homeImg{
+    width: 200rem;
+    filter: drop-shadow(20px 10px 1rem black);
+}
+.viewBook{
+    text-decoration: none;
+}
+.viewBook:hover{
+    color: silver;
+}

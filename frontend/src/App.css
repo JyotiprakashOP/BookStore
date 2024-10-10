@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.viewBook{
+  outline: none;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+}
